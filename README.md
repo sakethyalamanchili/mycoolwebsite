@@ -4,8 +4,7 @@ Welcome to My Cool Website! This is my personal website hosted on GitHub Pages. 
 
 ## Preview
 
-Visit Saketh's Cool Website: [Website](https://sakethyalamanchili.github.io/mycoolwebsite/)
-
+Visit my Cool Website: [Website](https://saketh-simple-portfolio.netlify.app/)
 ## Project Overview
 
 This website is built using only HTML, ensuring simplicity and accessibility. It's designed to be responsive and user-friendly, providing a seamless experience across different devices and screen sizes.
